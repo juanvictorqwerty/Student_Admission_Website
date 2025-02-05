@@ -13,7 +13,7 @@
 
     if ($connection) {
 
-        echo "Connected to database";
+        echo " ";
         }
         else {
             echo "Connection failed";
